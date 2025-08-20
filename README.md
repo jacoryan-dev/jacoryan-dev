@@ -1,10 +1,11 @@
 # 👋 Hi!! I'm Jacob!
 
-🚀 Atualmente desenvolvo com **JavaScript, React, Node.js, Express e n8n**, criando desde aplicações web até fluxos automatizados de integração com n8n.  
+🚀  I develop with **JavaScript, React, Node.js, Express e n8n**, creating web applications and automations with n8n. 
+🎓  Studying bachelor's degree in Information Technology at IMD/UFRN
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
 - **Front-end:**  
