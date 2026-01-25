@@ -9,27 +9,29 @@
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
 - **Front-end:**
-
   ![Javascript](https://custom-icon-badges.demolab.com/badge/-Javascript-FCC624?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://custom-icon-badges.demolab.com/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![React](https://custom-icon-badges.demolab.com/badge/-React-218AAB?style=for-the-badge&logo=react&logoColor=white)
   ![HTML5](https://custom-icon-badges.demolab.com/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
   ![CSS3](https://custom-icon-badges.demolab.com/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
   ![TailwindCSS](https://custom-icon-badges.demolab.com/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=fff)
-
-
+  ![Axios](https://custom-icon-badges.demolab.com/badge/-Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
 - **Back-end & Database:**
-  
-  ![MongoDB](https://custom-icon-badges.demolab.com/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Express](https://custom-icon-badges.demolab.com/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
   ![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express](https://custom-icon-badges.demolab.com/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![Prisma](https://custom-icon-badges.demolab.com/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+  ![MongoDB](https://custom-icon-badges.demolab.com/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- **Automation:**
+- **Testing:**
+  ![Vitest](https://custom-icon-badges.demolab.com/badge/-Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+  ![Playwright](https://custom-icon-badges.demolab.com/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
+- **Automation & DevOps:**
   [![n8n](https://custom-icon-badges.demolab.com/badge/-n8n-606060?style=for-the-badge&logo=n8n&logoColor=DC143C)](https://www.n8n.io/)
-  
-</div>
+  ![CI/CD](https://custom-icon-badges.demolab.com/badge/-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+</div>
 ---
 
 ## 📊 Statistics from GitHub
