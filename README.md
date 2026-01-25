@@ -22,6 +22,7 @@
 
 - **Back-end & Database:**
 
+  ![PostgreSQL](https://custom-icon-badges.demolab.com/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Supabase](https://custom-icon-badges.demolab.com/badge/-Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
   ![MongoDB](https://custom-icon-badges.demolab.com/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Express](https://custom-icon-badges.demolab.com/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
