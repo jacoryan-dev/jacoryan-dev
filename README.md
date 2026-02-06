@@ -45,8 +45,8 @@
 ## 📊 Statistics from GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacoryan-dev&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacoryan-dev&layout=compact&theme=tokyonight&cache_seconds=86400"/>
+  <img height="180em" src="https://SEU-APP.vercel.app/api?username=jacoryan-dev&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://SEU-APP.vercel.app/api/top-langs/?username=jacoryan-dev&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
