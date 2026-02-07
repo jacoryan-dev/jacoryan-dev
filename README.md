@@ -42,15 +42,6 @@
 
 ---
 
-## 📊 Statistics from GitHub
-
-<div align="center">
-  <img height="180em" src="https://SEU-APP.vercel.app/api?username=jacoryan-dev&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://SEU-APP.vercel.app/api/top-langs/?username=jacoryan-dev&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 ## 📞 Contact  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jac%C3%B3-ryan-a6a19a315/)
 - 📧 **jacoryan83@gmail.com**
