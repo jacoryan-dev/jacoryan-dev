@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Hi!! I'm Jacob!
 
--   🚀  I develop with **TypeScript, React, Node.js, Express**, creating web applications and also automations. 
+-   🚀  I develop with **TypeScript, React, Node.js, Express**, creating web applications and automations. 
 -   🎓  Studying bachelor's degree in Information Technology at IMD/UFRN
 
 ---
