@@ -20,8 +20,6 @@
 | 🤖 **[Fit Manager](https://fitmanager.jupit.com.br/)** | Management platform for personal trainers with an AI agent on WhatsApp (Laravel 12, Supabase, n8n, OpenAI) | Live · delivered |
 | 🎟️ **[PLATEA](https://platea.musica.ufrn.br/)** | Official ticket booking and validation system for UFRN's School of Music (Laravel, React, TypeScript, HMAC-signed QR codes) | Live · in testing |
 | 💡 **[LumiAgent](https://jacoryan-dev.github.io/projetos/lumiagent/)** | AI agent that turns Portuguese commands into lighting actions via MQTT, with tool calling and Docker Compose | In progress |
-| 🥋 **[Clube Combate](https://clubecombate.com.br/)** | Institutional website for a jiu-jitsu academy | Live |
-
 ---
 
 ## 🛠️ Technologies & Tools
